@@ -1,0 +1,60 @@
+2021-11-11 16:16:05,706 - FirstCucumberBddFramework -INFO - *** Launching browser*******
+2021-11-11 16:16:05,749 - FirstCucumberBddFramework -INFO - *** Opening URL*******
+2021-11-11 16:16:07,238 - FirstCucumberBddFramework -INFO - *** Proving user info *****
+2021-11-11 16:16:08,858 - FirstCucumberBddFramework -INFO - *** Launching browser*******
+2021-11-11 16:16:08,861 - FirstCucumberBddFramework -INFO - *** Opening URL*******
+2021-11-11 16:16:10,014 - FirstCucumberBddFramework -INFO - *** Proving user info *****
+2021-11-11 16:17:19,649 - FirstCucumberBddFramework -INFO - *** Launching browser*******
+2021-11-11 16:17:19,676 - FirstCucumberBddFramework -INFO - *** Opening URL*******
+2021-11-11 16:17:20,841 - FirstCucumberBddFramework -INFO - *** Proving user info *****
+2021-11-11 16:17:22,423 - FirstCucumberBddFramework -INFO - *** Launching browser*******
+2021-11-11 16:17:22,424 - FirstCucumberBddFramework -INFO - *** Opening URL*******
+2021-11-11 16:17:23,491 - FirstCucumberBddFramework -INFO - *** Proving user info *****
+2021-11-11 16:19:46,552 - FirstCucumberBddFramework -INFO - *** Launching browser*******
+2021-11-11 16:19:46,575 - FirstCucumberBddFramework -INFO - *** Opening URL*******
+2021-11-11 16:19:47,746 - FirstCucumberBddFramework -INFO - *** Proving user info *****
+2021-11-11 16:19:49,293 - FirstCucumberBddFramework -INFO - *** Launching browser*******
+2021-11-11 16:19:49,296 - FirstCucumberBddFramework -INFO - *** Opening URL*******
+2021-11-11 16:19:50,410 - FirstCucumberBddFramework -INFO - *** Proving user info *****
+2021-11-11 16:22:50,331 - FirstCucumberBddFramework -INFO - *** Launching browser*******
+2021-11-11 16:22:50,354 - FirstCucumberBddFramework -INFO - *** Opening URL*******
+2021-11-11 16:22:51,539 - FirstCucumberBddFramework -INFO - *** Proving user info *****
+2021-11-11 16:22:53,057 - FirstCucumberBddFramework -INFO - *** Launching browser*******
+2021-11-11 16:22:53,058 - FirstCucumberBddFramework -INFO - *** Opening URL*******
+2021-11-11 16:22:54,143 - FirstCucumberBddFramework -INFO - *** Proving user info *****
+2021-11-11 16:28:44,285 - FirstCucumberBddFramework -INFO - *** Launching browser*******
+2021-11-11 16:28:44,308 - FirstCucumberBddFramework -INFO - *** Opening URL*******
+2021-11-11 16:28:45,551 - FirstCucumberBddFramework -INFO - *** Proving user info *****
+2021-11-11 16:28:47,036 - FirstCucumberBddFramework -INFO - *** Launching browser*******
+2021-11-11 16:28:47,037 - FirstCucumberBddFramework -INFO - *** Opening URL*******
+2021-11-11 16:28:48,149 - FirstCucumberBddFramework -INFO - *** Proving user info *****
+2021-11-11 16:38:49,510 - FirstCucumberBddFramework -INFO - *** Launching browser*******
+2021-11-11 16:38:49,529 - FirstCucumberBddFramework -INFO - *** Opening URL*******
+2021-11-11 16:38:50,674 - FirstCucumberBddFramework -INFO - *** Proving user info *****
+2021-11-11 16:38:56,788 - FirstCucumberBddFramework -INFO - *** Adding Customer Scenario started  *****
+2021-11-11 16:38:56,790 - FirstCucumberBddFramework -INFO - *** Dashboard Display validation *****
+2021-11-11 16:39:04,670 - FirstCucumberBddFramework -INFO - *** Providing Customer details *****
+2021-11-11 16:39:14,818 - FirstCucumberBddFramework -INFO - *** Add customer validation *****
+2021-11-11 16:39:17,557 - FirstCucumberBddFramework -INFO - *** Launching browser*******
+2021-11-11 16:39:17,559 - FirstCucumberBddFramework -INFO - *** Opening URL*******
+2021-11-11 16:39:18,655 - FirstCucumberBddFramework -INFO - *** Proving user info *****
+2021-11-11 16:39:24,331 - FirstCucumberBddFramework -INFO - ****Login Validation starts ******
+2021-11-11 16:39:24,366 - FirstCucumberBddFramework -INFO - ****Login successfull ******
+2021-11-11 16:39:27,373 - FirstCucumberBddFramework -INFO - ****Logout from application******
+2021-11-11 16:39:31,418 - FirstCucumberBddFramework -INFO - ****Login Validation starts ******
+2021-11-11 16:39:31,428 - FirstCucumberBddFramework -INFO - ****Login successfull ******
+2021-11-11 17:04:50,127 - FirstCucumberBddFramework -INFO - *** Launching browser*******
+2021-11-11 17:04:50,153 - FirstCucumberBddFramework -INFO - *** Opening URL*******
+2021-11-11 17:04:51,457 - FirstCucumberBddFramework -INFO - *** Proving user info *****
+2021-11-11 17:04:57,495 - FirstCucumberBddFramework -INFO - *** Adding Customer Scenario started  *****
+2021-11-11 17:04:57,499 - FirstCucumberBddFramework -INFO - *** Dashboard Display validation *****
+2021-11-11 17:05:06,629 - FirstCucumberBddFramework -INFO - *** Providing Customer details *****
+2021-11-11 17:05:17,774 - FirstCucumberBddFramework -INFO - *** Add customer validation *****
+2021-11-11 17:05:20,737 - FirstCucumberBddFramework -INFO - *** Launching browser*******
+2021-11-11 17:05:20,739 - FirstCucumberBddFramework -INFO - *** Opening URL*******
+2021-11-11 17:05:21,856 - FirstCucumberBddFramework -INFO - *** Proving user info *****
+2021-11-11 17:05:27,803 - FirstCucumberBddFramework -INFO - ****Login Validation starts ******
+2021-11-11 17:05:27,854 - FirstCucumberBddFramework -INFO - ****Login successfull ******
+2021-11-11 17:05:30,862 - FirstCucumberBddFramework -INFO - ****Logout from application******
+2021-11-11 17:05:35,554 - FirstCucumberBddFramework -INFO - ****Login Validation starts ******
+2021-11-11 17:05:35,565 - FirstCucumberBddFramework -INFO - ****Login successfull ******
